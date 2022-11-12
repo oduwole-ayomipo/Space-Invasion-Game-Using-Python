@@ -13,7 +13,7 @@ Similarly, the space alien will make attempt to invade the ship by moving in gro
 
 
 ### How To Play ⛳
-- If you don't have [Python IDE](https://www.python.org/downloads/) or [Pygame Module](http://www.pygame.org/download.shtml) installed, you can simply double click the .exe file to play the game.
+- If you don't have [Python IDE](https://www.python.org/downloads/) or [Pygame Module](http://www.pygame.org/download.shtml) installed, you can simply double click the .exe file (in the Space Invasion folder) to play the game.
   **Note:** _The .exe file needs to stay in the same directory as the res folder_
 
 - If you have the recent version of Python and Pygame installed, the program can be run directly via command prompt / terminal.
