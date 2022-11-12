@@ -1,6 +1,6 @@
 # Space Invasion Using Python 👾
 
-<img src="https://github.com/oduwole-ayomipo/Space-Invasion-Game-Using-Python/blob/main/Space%20Invasion/res/img/HeaderImg.png"/>
+<img src="https://github.com/oduwole-ayomipo/Space-Invasion-Game-Using-Python/blob/main/Assets/HeaderImg.png"/>
 
 [![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)
 [![Module](https://img.shields.io/badge/module-pygame-brightgreen.svg?style=flat)](http://www.pygame.org/news.html)
@@ -19,9 +19,9 @@ Similarly, the space alien will make attempt to invade the ship by moving in gro
 - If you have the recent version of Python and Pygame installed, the program can be run directly via command prompt / terminal.
 
 ### Assets 🧰
-<img src="https://github.com/oduwole-ayomipo/Space-Invasion-Game-Using-Python/blob/main/Space%20Invasion/res/img/HeaderImg.png"/>
-<img src="https://github.com/oduwole-ayomipo/Space-Invasion-Game-Using-Python/blob/main/Space%20Invasion/res/img/HeaderImg.png"/>
-<img src="https://github.com/oduwole-ayomipo/Space-Invasion-Game-Using-Python/blob/main/Space%20Invasion/res/img/HeaderImg.png"/>
+<img src="https://github.com/oduwole-ayomipo/Space-Invasion-Game-Using-Python/blob/main/Assets/home.png"/>
+<img src="https://github.com/oduwole-ayomipo/Space-Invasion-Game-Using-Python/blob/main/Assets/terminal.png"/>
+<img src="https://github.com/oduwole-ayomipo/Space-Invasion-Game-Using-Python/blob/main/Assets/gameover.png"/>
 
 ### Contact ☎️
 Thank you very much for checking out this project. I can be contacted via:
