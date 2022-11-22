@@ -13,7 +13,7 @@ Similarly, the space alien will make attempt to invade the ship by moving in gro
 
 
 ### How To Play ⛳
-- Player must have the recent version of Python and Pygame installed, hence, the program can be run directly via command prompt / terminal.
+- Player must have the recent version of Python IDE and Pygame module installed, then program can be run directly via command prompt or terminal.
 
 ### Assets 🧰
 <img src="https://github.com/oduwole-ayomipo/Space-Invasion-Game-Using-Python/blob/main/Assets/home.png"/>
@@ -23,4 +23,5 @@ Similarly, the space alien will make attempt to invade the ship by moving in gro
 ### Contact ☎️
 Thank you very much for checking out this project. I can be contacted via:
 - Oduwole Ayomipo
-- harkorede318@gmail.com
+- <a href="https://twitter.com/justayooo">Twitter</a>
+- <a href="https://www.linkedin.com/in/oduwole-ayomipo/">Linkedin</a> 
